@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>VerTechX-Gallery</title>
+
+  <title>vertex</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="demo2.css" type="text/css">
+
+
+
+
+	<meta name="viewport" id="jb-viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1, maximum-scale=1, user-scalable=0" />
+	<meta name="description" content="" />
+
+
+<!-- START OPEN GRAPH TAGS-->
+  <meta property="og:title" content="Juicebox Gallery" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="" />
+  <meta property="og:image" content="" />
+  <meta property="og:description" content="" />
+  <!-- END OPEN GRAPH TAGS-->
+<style type="text/css">
+  
+  @font-face{
+
+    font-family: myFirstFont;
+    src:url(musio/Museo300-Regular.otf);
+  }
+  .museo{
+    font-family: myFirstFont
+  }
+
+
+</style>
+	
+</head>
+<body onload="myFunction()">
+
+
+<div id="loader"></div>
+
+<script>
+var myVar;
+
+function myFunction() {
+    myVar = setTimeout(showPage, 3000);
+}
+
+function showPage() {
+  document.getElementById("loader").style.display = "none";
+  document.getElementById("myDiv").style.display = "block";
+}
+</script>
+
+<div>
+<nav class="navbar navbar-inverse navback1 museo">
+  <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+       <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+      </button>
+      <a class="navbar-brand" href="#">VerTechX 8.0</a>
+    </div>
+    <div class="collapse navbar-collapse " id="myNavbar">
+      <ul class="nav navbar-nav navbar-right" >
+        <li><a href="index.html">Home</a></li>
+        <li><a href="events.html" >Events</a></li>
+        <li><a href="https://goo.gl/forms/KLXtryJC0uoJKAbf1" >Registration</a></li>
+         <li class="active"><a href="#" >Gallery</a></li>
+        <li><a href="contactname1.html" >Contact</a></li>
+      </ul>
+    </div>
+</nav>
+  </div>
+
+  <!--START JUICEBOX EMBED-->
+  <script src="jbcore/juicebox.js"></script>
+  <script>
+  new juicebox({
+    containerId: 'juicebox-container',
+    galleryWidth: '100%',
+    galleryHeight: '100%',
+    backgroundColor: 'rgba(34,34,34,1)'
+  });
+  </script>
+  <div id="juicebox-container"></div>
+  <!--END JUICEBOX EMBED-->
+
+
+<div id="footer" class="text-center ss" style=" padding-bottom: 50px;">
+
+  <div class="container">
+        <div class="row">
+
+          <div class="col-md-6 mb-5 mb-lg-0">
+            <h4 class="museo text-uppercase mb-4">Location</h4>
+            <p class="lead mb-0 museo">MVJ COLLEGE OF ENGINEERING
+              <br>NEAR ITPB,WHITEFIELD,560067,<br>BANGALORE</p>
+          </div>
+
+
+
+          <div class="col-md-6 mb-5 mb-lg-0">
+
+
+            <h4 class="text-uppercase mb-4 museo">Around the Web</h4>
+            <ul class="list-inline mb-0">
+
+
+              <li class="list-inline-item">
+                <a  href="https://www.facebook.com/VertechX8.0/">
+               <img  style="width: 40px" src="img/fb.png">
+                </a>
+              </li>
+
+
+
+              <li class="list-inline-item">
+                   <a  href="https://www.instagram.com/vertechx8.0/">
+               <img  style="width: 40px" src="img/insta.png">
+                </a>
+              </li>
+        
+            </ul>
+             <h4 class="text-uppercase mb-4 museo">Mail us at:</h4>
+            <p class="museo">vertechx8.0@gmail.com</p>
+
+
+          </div>
+
+        </div>
+
+      </div>
+  
+</div>
+
+
+  <div class="text-center ss" style=" padding-bottom: 10px; ">
+
+
+  <p style="color: white;">THIS SITE IS DESIGNED BY <strong>ABHA KAUSHAL (1MJ15CS002)</strong> AND <strong>SIDDHARTH BEHRA (1MJ15CS146)</strong></p>
+
+  
+</div>
+
+
+
+
+
+</body>
+</html>

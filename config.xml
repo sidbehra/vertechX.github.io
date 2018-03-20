@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	showOpenButton="true"
+	useThumbDots="false"
+	useFullscreenExpand="true"
+	galleryWidth="100%"
+
+>
+  <image imageURL="images/p1.jpg"
+	thumbURL="thumbs/p1.jpg"
+	linkURL="images/p1.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\siddarth\Desktop\vertex\p1.JPG">
+    <title><![CDATA[p1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/p2.jpg"
+	thumbURL="thumbs/p2.jpg"
+	linkURL="images/p2.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\siddarth\Desktop\vertex\p2.JPG">
+    <title><![CDATA[p2]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/p3.jpg"
+	thumbURL="thumbs/p3.jpg"
+	linkURL="images/p3.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\siddarth\Desktop\vertex\p3.JPG">
+    <title><![CDATA[p3]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/p4.jpg"
+	thumbURL="thumbs/p4.jpg"
+	linkURL="images/p4.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\siddarth\Desktop\vertex\p4.JPG">
+    <title><![CDATA[p4]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/p5.jpg"
+	thumbURL="thumbs/p5.jpg"
+	linkURL="images/p5.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\siddarth\Desktop\vertex\p5.JPG">
+    <title><![CDATA[p5]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/p6.jpg"
+	thumbURL="thumbs/p6.jpg"
+	linkURL="images/p6.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\siddarth\Desktop\vertex\p6.JPG">
+    <title><![CDATA[p6]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/p7.jpg"
+	thumbURL="thumbs/p7.jpg"
+	linkURL="images/p7.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\siddarth\Desktop\vertex\p7.JPG">
+    <title><![CDATA[p7]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/p8.jpg"
+	thumbURL="thumbs/p8.jpg"
+	linkURL="images/p8.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\siddarth\Desktop\vertex\p8.JPG">
+    <title><![CDATA[p8]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/p9.jpg"
+	thumbURL="thumbs/p9.jpg"
+	linkURL="images/p9.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\siddarth\Desktop\vertex\p9.JPG">
+    <title><![CDATA[p9]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/p10.jpg"
+	thumbURL="thumbs/p10.jpg"
+	linkURL="images/p10.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\siddarth\Desktop\vertex\p10.JPG">
+    <title><![CDATA[p10]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/p11.jpg"
+	thumbURL="thumbs/p11.jpg"
+	linkURL="images/p11.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\siddarth\Desktop\vertex\p11.JPG">
+    <title><![CDATA[p11]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/p12.jpg"
+	thumbURL="thumbs/p12.jpg"
+	linkURL="images/p12.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\siddarth\Desktop\vertex\p12.JPG">
+    <title><![CDATA[p12]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/p13.jpg"
+	thumbURL="thumbs/p13.jpg"
+	linkURL="images/p13.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\siddarth\Desktop\vertex\p13.JPG">
+    <title><![CDATA[p13]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/p14.jpg"
+	thumbURL="thumbs/p14.jpg"
+	linkURL="images/p14.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\siddarth\Desktop\vertex\p14.JPG">
+    <title><![CDATA[p14]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/p15.jpg"
+	thumbURL="thumbs/p15.jpg"
+	linkURL="images/p15.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\siddarth\Desktop\vertex\p15.JPG">
+    <title><![CDATA[p15]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/p16.jpg"
+	thumbURL="thumbs/p16.jpg"
+	linkURL="images/p16.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\siddarth\Desktop\vertex\p16.JPG">
+    <title><![CDATA[p16]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/p17.jpg"
+	thumbURL="thumbs/p17.jpg"
+	linkURL="images/p17.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\siddarth\Desktop\vertex\p17.JPG">
+    <title><![CDATA[p17]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/p18.jpg"
+	thumbURL="thumbs/p18.jpg"
+	linkURL="images/p18.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\siddarth\Desktop\vertex\p18.JPG">
+    <title><![CDATA[p18]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/p19.jpg"
+	thumbURL="thumbs/p19.jpg"
+	linkURL="images/p19.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\siddarth\Desktop\vertex\p19.JPG">
+    <title><![CDATA[p19]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/p20.jpg"
+	thumbURL="thumbs/p20.jpg"
+	linkURL="images/p20.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\siddarth\Desktop\vertex\p20.jpg">
+    <title><![CDATA[p20]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
